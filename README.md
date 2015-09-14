@@ -17,7 +17,7 @@ OK, no worries lets set this puppy up!
 
 This guide assumes you are working on an Aurora device with a 64bit operating system. If this is not the case, get in contact with Dr G and he will help you sort things out.
 
-So following the instructions below in the order listed
+***A long process this is, patience you must have my young codemonkey...***
 
 - ###install python
 at the time of writing the [current version of python is python 3.5] (https://www.python.org/ftp/python/3.5.0/python-3.5.0-amd64.exe)
