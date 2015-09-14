@@ -39,4 +39,4 @@ Under *Version Control* choose GitHub and enter you account details.
 ![PyCharm Version Control settings](https://schoolsnsw-my.sharepoint.com/personal/geoff_goldrick_det_nsw_edu_au/_layouts/15/guestaccess.aspx?guestaccesstoken=fit1B%2bcVe51Gbknc3bN%2fottZOXtgWTX%2f5HnLz9j7cgU%3d&docid=0a2fcee614d99418b829dfad7c6e4beab)
 
 Now go back to the Welcome screen and choose Check out from version control
-[Check out from version control](https://schoolsnsw-my.sharepoint.com/personal/geoff_goldrick_det_nsw_edu_au/_layouts/15/guestaccess.aspx?guestaccesstoken=8hzYPLYcCZ96M5iVFVxm1meVLgDUgQsEfFFOopPQ%2b9s%3d&docid=0c4c8f300538a43a696a77fd4e1353f6d)
+![Check out from version control](https://schoolsnsw-my.sharepoint.com/personal/geoff_goldrick_det_nsw_edu_au/_layouts/15/guestaccess.aspx?guestaccesstoken=8hzYPLYcCZ96M5iVFVxm1meVLgDUgQsEfFFOopPQ%2b9s%3d&docid=0c4c8f300538a43a696a77fd4e1353f6d)
