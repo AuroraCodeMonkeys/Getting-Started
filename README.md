@@ -42,4 +42,4 @@ Now go back to the Welcome screen and choose Check out from version control
 ![Check out from version control](https://schoolsnsw-my.sharepoint.com/personal/geoff_goldrick_det_nsw_edu_au/_layouts/15/guestaccess.aspx?guestaccesstoken=8hzYPLYcCZ96M5iVFVxm1meVLgDUgQsEfFFOopPQ%2b9s%3d&docid=0c4c8f300538a43a696a77fd4e1353f6d)
 
 - ###add markdown plugin
-Go to the ![JetBrains plugin repository page for the multimarkdown plugin](https://plugins.jetbrains.com/plugin/7896?pr=idea_ce) and download the latest version. Then open 
+Go to the [JetBrains plugin repository page for the multimarkdown plugin](https://plugins.jetbrains.com/plugin/7896?pr=idea_ce) and download the latest version. Then open 
