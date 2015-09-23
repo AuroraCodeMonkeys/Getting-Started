@@ -23,7 +23,7 @@ This guide assumes you are working on an Aurora device with a 64bit operating sy
 at the time of writing the [current version of python is python 3.5] (https://www.python.org/ftp/python/3.5.0/python-3.5.0-amd64.exe)
 
 - ###install git
-So git is the program that allows you to 'push' and 'pull' files between the GitHub repository (see above). At the time of writing this guide, [this is the latest version](https://github.com/git-for-windows/git/releases/download/v2.5.2.windows.2/Git-2.5.2.2-64-bit.exe).
+So git is the program that allows you to 'push' and 'pull' files between the GitHub repository (see above). At the time of writing this guide, [2.5.3 is the latest version](https://github.com/git-for-windows/git/releases/download/v2.5.3.windows.1/Git-2.5.3-64-bit.exe).
 
 - ###install pygame
 This is a collection of modules we can use to develop if you go to the pygame website you wont find a version thats compatible with python 3.5 64bit. But *DON'T PANIC*, you can download a [suitable version here](https://schoolsnsw-my.sharepoint.com/personal/geoff_goldrick_det_nsw_edu_au/_layouts/15/guestaccess.aspx?guestaccesstoken=uWYZg3Q9RnS46ukiubMD1348gIr9lRG3zA9%2bi9jMJaA%3d&docid=088367932673949709f0f8ed72333bd06).
